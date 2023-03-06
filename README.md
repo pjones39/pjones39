@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @pjones39
+- 👋 Hi, I’m Crackle
 - 👀 I’m interested in learning new topics
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and C#
 - 💞️ I’m looking to collaborate on simple programs
 - 📫 How to reach me crackle6.origami@gmail.com
 
